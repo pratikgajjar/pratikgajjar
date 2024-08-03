@@ -8,5 +8,4 @@
 - 📫 How to reach me - Email, [Meet](https://pratikgajjar.in/contact/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can sleep anytime. 
-- 📝 [Resume](https://pratikgajjar.in/resume)
-- 🌐 [Website](https://pratikgajjar.in)
+- 🌐 [Website](https://backend.how)
