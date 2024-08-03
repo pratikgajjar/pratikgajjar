@@ -7,5 +7,5 @@
 - 💬 Ask me about backend engineering, databases, data pipeline, data science in production, aws, dev-ops automation etc 
 - 📫 How to reach me - Email, [Meet](https://pratikgajjar.in/contact/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can sleep anytime. 
+- ⚡ Fun fact: ~~I can sleep anytime~~. 
 - 🌐 [Website](https://backend.how)
